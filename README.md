@@ -25,7 +25,7 @@ Bu Python programı, PID denetleyici kullanarak bir aracı belirli bir hedefe do
 
 ## Örnek Görüntü
 
-![Araç Simülasyonu](screenshot.png)
+![Araç Simülasyonu](PyGamePID.png)
 
 ## Katkılar
 
